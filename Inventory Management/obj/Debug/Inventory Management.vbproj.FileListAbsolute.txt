@@ -1,0 +1,27 @@
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmlogin.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Resources.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory Management.vbproj.GenerateResource.Cache
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\bin\Debug\Inventory Management.pdb
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\bin\Debug\Inventory Management.xml
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmCustomer.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmHomeaa.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmLedgerCustomer.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmLedgerVendor.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmStock.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmVendor.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory Management.exe
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory Management.xml
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory Management.pdb
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmCompanyReg.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmStaff.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmStaffGred.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.AdminAc.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmBill.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmHomegg.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmSalary.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmStckGred.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.frmUserMood.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Splash.resources
+C:\Users\Sajan\Documents\Visual Studio 2008\Projects\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.justtry.resources
